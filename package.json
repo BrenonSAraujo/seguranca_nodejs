@@ -8,7 +8,7 @@
     "start": "nodemon ./api/index.js"
   },
   "keywords": [],
-  "author": "Raphael Lucas Girao de Lima",
+  "author": "Brenon Silvestre de Araujo",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
